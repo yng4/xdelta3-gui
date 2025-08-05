@@ -1,5 +1,5 @@
 # 使用方法
-下载单文件的可以直接双击文件直接运行，由于是单文件和编写语言是python，所以启动会有些慢；下载压缩包的请运行压缩包中的xdelta3-gui.exe，xdelta3.exe是原作者提供的二进制文件，来自[jmacd/xdelta](https://github.com/jmacd/xdelta-gpl)<br>
+下载单文件的可以直接双击文件直接运行，由于是单文件和编写语言是python，所以启动会有些慢；下载压缩包的请运行压缩包中的xdelta3-gui.exe，xdelta3.exe可以在原作者提供的二进制文件里找到，来自[jmacd/xdelta](https://github.com/jmacd/xdelta-gpl)<br>
 <img width="518" height="47" alt="Image" src="https://github.com/user-attachments/assets/930e3d0b-8911-4ec9-b07e-51a320df3118" /><br>
 **以下是示例，实际使用请按自己的情况结合示例使用。**<br>
 先新建两个文本文件，新建文本文档.txt里面写上123，新建文本文档(2).txt里面写上1234。模拟新建文本文档.txt是原先的文件，新建文本文档(2).txt是一段时间后经过了操作的文件。<br>
